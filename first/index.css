@@ -1,0 +1,20 @@
+body{
+    background-color: #d3d2d3;
+}
+.header{
+    background-color: #3c3c3c;
+    height: 150px;
+    width: 99%;
+}
+.main-body{
+    background-color: white;
+    height: 1100px;
+    width: 70vw;
+    margin: auto;
+}
+.footer{
+    background-color: black;
+    width: 70vw;
+    height: 100px;
+    margin: auto;
+}
